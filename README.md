@@ -4,6 +4,7 @@
 - Stores price history on-chain
 - Takes fee on sale @ 5%
 - Supports ERC721 and ERC1155
+- jj
 
 ## Build and test
 
